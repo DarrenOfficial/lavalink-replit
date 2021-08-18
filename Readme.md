@@ -2,6 +2,8 @@
 
 How to install and run lavalink on replit.
 
+Caveats of using this. you need to have the basic knowlage of lavalink. and you need to know how to make your bot connect via https.
+
 ## Installation
 
 Fork this github repository. then create a new replit project.
