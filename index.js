@@ -2,7 +2,7 @@ const { default: { stream } } = require("got"); // import random shit
 const { createWriteStream } = require("fs"); 
 const { execSync } = require("child_process");
 
-// pull the "stable" version from freya github
+// pull latest with soundcloud fix
 
 const url = "https://github.com/Cog-Creators/Lavalink-Jars/releases/download/3.3.2.3_1238/Lavalink.jar";
 const start = () => {
