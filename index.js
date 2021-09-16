@@ -4,7 +4,7 @@ const { execSync } = require("child_process");
 
 // pull latest with soundcloud fix
 
-const url = "https://cdn.darrennathanael.com/jars/Lavalink.jar;
+const url = "https://cdn.darrennathanael.com/jars/Lavalink.jar":
 const start = () => {
     const download = stream(url).pipe(createWriteStream('Lavalink.jar'));
     download.on("finish", () => {
