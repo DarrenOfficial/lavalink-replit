@@ -1,8 +1,7 @@
 # Lavalink on Replit
 
 How to install and run lavalink on replit.
-
-Caveats of using this. you need to have the basic knowlage of lavalink. and you need to know how to make your bot connect via https.
+Full tutorial on how to set it up is on my [website, click me](https://darrennathanael.com/community/threads/how-to-setup-make-lavalink-on-repl-it.82/)
 
 ## Installation
 
