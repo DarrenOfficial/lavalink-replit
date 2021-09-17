@@ -1,5 +1,5 @@
 server: # REST and WS server
-  port: 2095 # ignore this, use 443 when connecting to your lavalink server - Darren
+  port: 443
   address: 0.0.0.0
 lavalink:
   server:
