@@ -10,7 +10,7 @@ Fork this github repository. then create a new replit project.
 or [click me](https://replit.com/github/DarrenOfficial/lavalink-replit) to install it automatically.
 
 
-### Initialisations
+### Initialisation
 ```bash
 chmod +x start.sh
 ```
