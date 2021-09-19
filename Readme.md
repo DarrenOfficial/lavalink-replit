@@ -11,6 +11,7 @@ or [click me](https://replit.com/github/DarrenOfficial/lavalink-replit) to insta
 
 
 ### Initialisation
+## only needed when the run button doesnt work.
 ```bash
 chmod +x start.sh
 ```
