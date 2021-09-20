@@ -1,10 +1,7 @@
-const { default: { stream } } = require("got"); // import random shit 
+const { default: { stream } } = require("got");
 const { createWriteStream } = require("fs"); 
 const { execSync } = require("child_process");
-
-// pull latest with soundcloud fix
-
-const url = "https://cdn.darrennathanael.com/jars/Lavalink.jar";
+const url = "https://cdn.darrennathanael.com/jars/Lavalink.jar"; // This will always pull the latest with soundcloud fix ect ect
 const start = () => {
     const download = stream(url).pipe(createWriteStream('Lavalink.jar'));
     download.on("finish", () => {
