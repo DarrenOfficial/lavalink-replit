@@ -1,5 +1,5 @@
 # Lavalink on Replit
-
+[![Run on Repl.it](https://repl.it/badge/github/DarrenOfficial/lavalink-replit)](https://repl.it/github/DarrenOfficial/lavalink-replit)
 How to install and run lavalink on replit.
 Full tutorial on how to set it up is on my [website, click me](https://darrennathanael.com/community/threads/how-to-setup-make-lavalink-on-repl-it.82/)
 
