@@ -11,6 +11,11 @@ Fork this github repository. then create a new replit project.
 
 or [click me](https://replit.com/github/DarrenOfficial/lavalink-replit) to install it automatically.
 
+# How to use
+* Run the replit
+* copy the replit url and put it to your bot
+> make sure you remove ‘https://‘ and always connect with the port 443
+
 
 ### Initialisation
 ## only needed when the run button doesnt work.
