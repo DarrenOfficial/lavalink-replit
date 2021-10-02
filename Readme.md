@@ -12,7 +12,7 @@ or [click me](https://replit.com/github/DarrenOfficial/lavalink-replit) to insta
 # How to use
 * Run the replit
 * copy the replit url and put it to your bot
-* > make sure you remove `https://` and always connect with the port 443
+> make sure you remove `https://` and always connect with the port 443
 
 
 - - -
