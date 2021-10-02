@@ -2,8 +2,6 @@
 [![Run on Repl.it](https://repl.it/badge/github/DarrenOfficial/lavalink-replit)](https://repl.it/github/DarrenOfficial/lavalink-replit)
 
 
-How to install and run lavalink on replit.
-Full tutorial on how to set it up is on my [website, click me](https://darrennathanael.com/community/threads/how-to-setup-make-lavalink-on-repl-it.82/)
 
 ## Installation
 
@@ -18,13 +16,10 @@ or [click me](https://replit.com/github/DarrenOfficial/lavalink-replit) to insta
 
 
 ### Initialisation
-## only needed when the run button doesnt work.
+only needed if the run button doesnt work.
 ```bash
 chmod +x start.sh
 ```
-
-## Usage
-
 ```bash
 ./start.sh
 ```
@@ -33,9 +28,10 @@ chmod +x start.sh
 
 ## Note & such
 The default port to connect is `443` and the default password is `maybeiwasboring`
-
-
 You can’t change the lavalink port! it will default to 443 due to how replit work.
+
+### How to keep the replit on with uptimerobot or freshping
+[x] Go to uptimerobot or freshping, and set HTTP request to your app and make sure to add `/version` at the end. ie `https://lavalink-replit.darrenofficial.repl.co/version`
 
 
 ## License
