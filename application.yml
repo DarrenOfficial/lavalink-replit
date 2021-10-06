@@ -13,7 +13,7 @@ lavalink:
       http: true
       local: false
     bufferDurationMs: 400
-    youtubePlaylistLoadLimit: 6 # Number of pages at 100 each
+    youtubePlaylistLoadLimit: 2 # Number of pages at 100 each
     playerUpdateInterval: 5 # How frequently to send player updates to clients, in seconds
     youtubeSearchEnabled: true
     soundcloudSearchEnabled: true
