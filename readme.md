@@ -14,6 +14,11 @@ or [click me](https://replit.com/github/DarrenOfficial/lavalink-replit) to insta
 * copy the replit url and put it to your bot
 > make sure you remove `https://` and always connect with the port 443
 
+Example `bot config`
+![botconfreplit](https://cdn.darrennathanael.com/assets/discord/lavalinkconfigbot.jpeg)
+
+Test bot from https://github.com/SudhanPlayz/Discord-MusicBot
+
 
 - - -
 
