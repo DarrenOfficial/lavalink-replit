@@ -15,6 +15,8 @@ or [click me](https://replit.com/github/DarrenOfficial/lavalink-replit) to insta
 > make sure you remove `https://` and always connect with the port 443
 
 Example `bot config`
+
+
 ![botconfreplit](https://cdn.darrennathanael.com/assets/discord/lavalinkconfigbot.jpeg)
 
 
