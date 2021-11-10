@@ -18,6 +18,7 @@ Example `bot config`
 ![botconfreplit](https://cdn.darrennathanael.com/assets/discord/lavalinkconfigbot.jpeg)
 
 
+
 Test bot from https://github.com/SudhanPlayz/Discord-MusicBot
 
 
