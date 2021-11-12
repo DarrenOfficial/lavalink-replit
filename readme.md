@@ -33,6 +33,8 @@ You can’t change the lavalink port! it will default to 443 due to how replit w
 ### How to keep the replit on with uptimerobot or freshping
 - [x] Go to uptimerobot or freshping, and set HTTP request to your app` I.e. `https://lavalink-replit.sexsells.repl.co/`
 
+Ps: if you want uptimerobot or freshping to show online, make sure to add `/metrics` to the end. i.e `https://lavalink-replit.sexsells.repl.co/metrics`
+
 
 only needed if the run button doesnt work.
 ```bash
