@@ -31,9 +31,9 @@ The default port to connect is `443` and the default password is `maybeiwasborin
 You can’t change the lavalink port! it will default to 443 due to how replit work.
 
 ### How to keep the replit on with uptimerobot or freshping
-- [x] Go to uptimerobot or freshping, and set HTTP request to your app` I.e. `https://lavalink-replit.sexsells.repl.co/`
+Go to uptimerobot or freshping, and set HTTP request to your app` I.e. `https://lavalink-replit.sexsells.repl.co/`
 
-Ps: if you want uptimerobot or freshping to show online, make sure to add `/metrics` to the end. i.e `https://lavalink-replit.sexsells.repl.co/metrics`
+> Ps: if you want uptimerobot or freshping to show online, make sure to add `/metrics` to the end. i.e `https://lavalink-replit.sexsells.repl.co/metrics`
 
 
 only needed if the run button doesnt work.
@@ -44,5 +44,8 @@ chmod +x start.sh
 ./start.sh
 ```
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+
+## Additional info
+
+
+The [lavalink](https://github.com/melike2d/lavalink) is based on https://github.com/melike2d/lavalink and the download url is pointed to https://cdn.darrennathanael.com/jars/Lavalink.jar so everytime theres a new update it will auto grabs it from that url
