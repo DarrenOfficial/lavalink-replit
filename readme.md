@@ -30,12 +30,12 @@ Test bot from https://github.com/SudhanPlayz/Discord-MusicBot
 The default port to connect is `443` and the default password is `maybeiwasboring`
 You can’t change the lavalink port! it will default to 443 due to how replit work.
 
-### How to keep the replit on with uptimerobot or freshping
-Go to uptimerobot or freshping, and set HTTP request to your app` I.e. `https://lavalink-replit.sexsells.repl.co/`
+### How to keep the replit on with [freshping](https://www.freshworks.com/website-monitoring/)
+Go to [freshping](https://www.freshworks.com/website-monitoring/), and set HTTP request to your app I.e. `https://lavalink-replit.sexsells.repl.co/metrics`
+and it should show that it's online. if it's show offline, go to your application.yml and make sure metrics is set to on
+![freshpingisbetterthanuptimerobot](https://darrennathanael.com/cdn/873E3AB4-8862-49A2-B5F6-5A0B97E3BCF1.jpeg)
 
-> Ps: if you want uptimerobot or freshping to show online, make sure to add `/metrics` to the end. i.e `https://lavalink-replit.sexsells.repl.co/metrics`
-
-
+- - -
 only needed if the run button doesnt work.
 ```bash
 chmod +x start.sh
