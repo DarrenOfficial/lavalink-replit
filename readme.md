@@ -19,11 +19,11 @@ Example `bot config`
 
 ![botconfreplit](https://cdn.darrennathanael.com/assets/discord/lavalinkconfigbot.jpeg)
 
-
-
 Test bot from https://github.com/SudhanPlayz/Discord-MusicBot
 
 
+## Youtube tutorial
+https://www.youtube.com/watch?v=bznq-P0Ovzk
 - - -
 
 ## Note & such
