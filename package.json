@@ -4,7 +4,7 @@
   "version": "3.0.0",
   "main": "index.js",
   "author": "DarrenOfficial",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE.md",
   "dependencies": {
     "dotenv": "^8.2.0",
     "got": "^11.8.1"
