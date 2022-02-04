@@ -23,7 +23,13 @@ Test bot from https://github.com/SudhanPlayz/Discord-MusicBot
 
 
 ## Youtube tutorial
-[https://www.youtube.com/watch?v=bznq-P0Ovzk](https://www.youtube.com/watch?v=bznq-P0Ovzk) go say thanks to [kakarot](https://github.com/Kakarot-0690) for making it!
+
+[![lavalink tutorial](https://user-images.githubusercontent.com/55406094/152597208-16ed9935-9a5f-430c-aba7-0a65711d2f07.png)](https://www.youtube.com/watch?v=CLadiJhPhag)
+
+
+https://www.youtube.com/watch?v=CLadiJhPhag
+
+
 - - -
 
 ## Note & such
