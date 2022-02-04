@@ -6,5 +6,4 @@ jabba install zulu@1.16.0
 echo Java is installed.
 java -version
 npm i
-echo Donwloading lavalink jar...
 node index
