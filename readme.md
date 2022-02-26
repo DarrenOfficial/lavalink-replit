@@ -12,7 +12,10 @@ or [click me](https://replit.com/github/DarrenOfficial/lavalink-replit) to insta
 # How to use
 * Run the replit
 * copy the replit url and put it to your bot
-> make sure you remove `https://` and always connect with the port 443
+### make sure you remove `https://` and always connect with the port 443
+
+## Ignore authentication fail from 172.X.X.X
+![](https://cdn.discordapp.com/attachments/855346696590589976/947185882056777818/unknown.png)
 
 Example `bot config`
 
