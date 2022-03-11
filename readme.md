@@ -15,8 +15,9 @@ or [click me](https://replit.com/github/DarrenOfficial/lavalink-replit) to insta
 ### make sure you remove `https://` and always connect with the port 443
 
 ## Ignore authentication fail from 172.X.X.X
-It is normal, especially when you ping it with uptimerobot or freshworks.
-tho it might show multiple times when you refresh the repl.it window
+It's normal, especially when you ping it with uptimerobot or freshworks.
+it might show multiple times when you refresh the repl.it window.
+
 ![](https://cdn.discordapp.com/attachments/855346696590589976/947185882056777818/unknown.png)
 
 Example `bot config`
