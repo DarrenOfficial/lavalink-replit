@@ -1,3 +1,8 @@
+# ⚠️ IMPORTANT ⚠️
+
+Due to recent changes, pinging your replit will not make it online "24/7". therefore it's better to just use public lavalink, available here -> https://lavalink.darrennathanael.com/ Most of the lavalink there has a great uptime. perfect for prod usecase. ![bang](https://cdn.darrennathanael.com/assets/github/2cBwqLJ.png)
+
+
 # Lavalink on Replit
 [![Run on Repl.it](https://repl.it/badge/github/DarrenOfficial/lavalink-replit)](https://repl.it/github/DarrenOfficial/lavalink-replit)
 
@@ -26,15 +31,6 @@ Example `bot config`
 ![botconfreplit](https://cdn.darrennathanael.com/assets/discord/lavalinkconfigbot.jpeg)
 
 Test bot from https://github.com/SudhanPlayz/Discord-MusicBot
-
-
-## Youtube tutorial
-
-[![lavalink tutorial](https://user-images.githubusercontent.com/55406094/152597208-16ed9935-9a5f-430c-aba7-0a65711d2f07.png)](https://www.youtube.com/watch?v=CLadiJhPhag)
-
-
-https://www.youtube.com/watch?v=CLadiJhPhag
-
 
 - - -
 
