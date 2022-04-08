@@ -1,31 +1,47 @@
-server: # REST and WS server, Do not change this.
+server: # REST and WS server
   port: 443
   address: 0.0.0.0
 
 lavalink:
   server:
-    password: "maybeiwasboring" # You can change this
+    password: "maybeiwasboring"
     playerUpdateInterval: 5 # How frequently to send player updates to clients, in seconds
+    statsTaskInterval: 60 # How frequently to send the node stats to clients, in seconds
     koe:
       useEpoll: true
       highPacketPriority: true
       bufferDurationMs: 400
       byteBufAllocator: "default"
     sources:
-      youtube: true
+      # Remote sources
       bandcamp: true
+      getyarn: true
+      http: true
+      odysee: true
+      reddit: true
       soundcloud: true
+      tiktok: true
       twitch: true
       vimeo: true
-      http: true
+      yandex: true
+      youtube: true
+
+      # Local source
       local: false
     lavaplayer:
       nonAllocating: false # Whether to use the non-allocating frame buffer.
       frameBufferDuration: 5000 # The frame buffer duration, in milliseconds
-      youtubePlaylistLoadLimit: 2 # Number of pages at 100 each
+      youtubePlaylistLoadLimit: 6 # Number of pages at 100 each
       gc-warnings: true
       youtubeSearchEnabled: true
+      odyseeSearchEnabled: true
       soundcloudSearchEnabled: true
+      yandexMusicSearchEnabled: true
+      #youtubeConfig: (Youtube account credentials, needed to play age restricted tracks)
+        #email: ""
+        #password: ""
+      # You can get your yandex oauth token here https://music-yandex-bot.ru/ used to remove the 30s limit on some tracks
+      #yandexOAuthToken:
       #ratelimit:
         #ipBlocks: ["1.0.0.0/8", "..."] # list of ip blocks
         #excludedIps: ["...", "..."] # ips which should be explicit excluded from usage by lavalink
@@ -35,7 +51,7 @@ lavalink:
 
 metrics:
   prometheus:
-    enabled: true
+    enabled: false
     endpoint: /metrics
 
 sentry:
