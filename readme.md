@@ -1,8 +1,3 @@
-# ⚠️ IMPORTANT ⚠️
-
-Due to recent changes, pinging your replit will not make it online "24/7". therefore it's better to just use public lavalink, available here -> https://lavalink.darrennathanael.com/ Most of the lavalink there has a great uptime. perfect for prod usecase. ![bang](https://cdn.darrennathanael.com/assets/github/2cBwqLJ.png)
-
-
 # Lavalink on Replit
 [![Run on Repl.it](https://repl.it/badge/github/DarrenOfficial/lavalink-replit)](https://repl.it/github/DarrenOfficial/lavalink-replit)
 
