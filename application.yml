@@ -1,10 +1,10 @@
-server: # REST and WS server
+server: # REST and WS server, Do not change this.
   port: 443
   address: 0.0.0.0
 
 lavalink:
   server:
-    password: "maybeiwasboring"
+    password: "maybeiwasboring" # Password, You can change this.
     playerUpdateInterval: 5 # How frequently to send player updates to clients, in seconds
     statsTaskInterval: 60 # How frequently to send the node stats to clients, in seconds
     koe:
@@ -51,7 +51,7 @@ lavalink:
 
 metrics:
   prometheus:
-    enabled: false
+    enabled: true
     endpoint: /metrics
 
 sentry:
