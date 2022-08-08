@@ -1,5 +1,5 @@
-const got = require('got');
-const fs = require("fs"); 
+const { default: { stream } } = require("got");
+const { createWriteStream } = require("fs");
 const { execSync } = require("child_process");
 const path = "./Lavalink.jar";
 
