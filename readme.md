@@ -1,3 +1,7 @@
+# Updating to latest
+
+### You need to delete the lavalink.jar and get the latest application.yml from this repo.
+
 # Lavalink on Replit
 [![Run on Repl.it](https://repl.it/badge/github/DarrenOfficial/lavalink-replit)](https://repl.it/github/DarrenOfficial/lavalink-replit)
 
